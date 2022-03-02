@@ -214,7 +214,7 @@ public class LampJFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jToggleButton3ActionPerformed
 
     /**
-     * 
+     *  Display text in Text Area
      * @param command 
      */
     private void displayTextArea(String command) {
